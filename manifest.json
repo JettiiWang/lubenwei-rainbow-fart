@@ -1,0 +1,12 @@
+{
+    "name": "lubenwei-rainbow-fart",
+    "display-name": "lubenwei-rainbow-fart",
+    "avatar": "avatar.jpg",
+    "avatar-dark":"avatar-dark.jpg",
+    "version": "1.0.0",
+    "description": "卢姥爷语音包",
+    "languages": ["javascript"],
+    "author": "zenj",
+    "gender": "male",
+    "locale": "zh"
+}
